@@ -1,5 +1,5 @@
 # dam-detection
-CNNs to identify beaver dams in satelitte images
+CNNs to identify beaver dams in satellite images
 
 Training data not available.
 
